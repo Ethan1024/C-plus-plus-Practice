@@ -1,4 +1,0 @@
-﻿  Main.cpp
-C:\dev\VirtualFunction\VirtualFunction\src\Main.cpp(47,4): error C2228: “.Print”的左边必须有类/结构/联合
-C:\dev\VirtualFunction\VirtualFunction\src\Main.cpp(47,4): message : 类型是“Entity *”
-C:\dev\VirtualFunction\VirtualFunction\src\Main.cpp(47,4): message : 是否改用“->”?

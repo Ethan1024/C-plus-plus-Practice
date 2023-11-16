@@ -1,6 +1,8 @@
 # C-plus-plus-Practice
 [🎈2023.11 bilibili The Chrono](https://www.bilibili.com/video/BV1oD4y1h7S3?p=1&vd_source=4c138922b9dcf3630068f559779b410f)
 
+win10+vs2019
+
 ### C++学习上机练习代码
 
 <table>

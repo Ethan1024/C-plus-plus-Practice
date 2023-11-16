@@ -14,7 +14,7 @@ int main()
 	//在VS2019版本中使用这种char*的表达方式会造成程序崩溃，所以VS2019对其进行了控件管理。解决方法：先将字符使用字符数组进行存储，再使用指针
 	//char Name[] = "Ethan";	
 	//char* name = Name;
-
+	 
 	std::string name = "Ethan";
 
 	name[0] = 'e';

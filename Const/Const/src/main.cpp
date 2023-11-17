@@ -3,8 +3,18 @@
 class Entity
 {
 private:
-	int m_X, m_Y;
+	mutable int m_DebugCount = 0;
 	mutable int var;	//mutable 允许函数是常量方法，但可以修改变量
+
+	//mutable
+	std::string m_Name;
+	int m_X, m_Y;
+public:
+	const std::string& GetName() const
+	{
+		m_DebugCount++;
+		return m_Name;
+	}
 public:
 	/* 方法名之后const的用法 */
 	int GetX() const
@@ -32,6 +42,19 @@ int main()
 	Entity e;
 
 	EntityPrint(e);
+
+	Entity f;
+	f.GetName();
+	
+	int x = 6;
+	//auto让编译器去分析表达式所属的类型
+	auto g = [=]() mutable
+	{
+		x++;
+		std::cout << x << std::endl;
+	};
+	g();
+  	//x = 6;
 
 	//const 承诺地址不变，地址里的内容不一定不变
 	const int MAX_AGE = 999;

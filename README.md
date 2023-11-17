@@ -59,11 +59,12 @@ win10+vs2019
     <tr>
         <td>const</td> 
         <td>✅ </td> 
-        <td></td> 
-        <td> </td> 
+        <td>mutable</td> 
+        <td>✅</td> 
         <td></td> 
         <td> </td> 
         <td></td> 
         <td> </td> 
     </tr>
 </table>
+

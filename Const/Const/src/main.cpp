@@ -74,4 +74,4 @@ int main()
 	std::cout << "a:" << *a << std::endl;
 
 	std::cin.get();
-}
+} 

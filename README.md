@@ -61,10 +61,9 @@ win10+vs2019
         <td>✅ </td> 
         <td>mutable</td> 
         <td>✅</td> 
-        <td></td> 
-        <td> </td> 
+        <td>成员初始化列表</td> 
+        <td>✅ </td> 
         <td></td> 
         <td> </td> 
     </tr>
 </table>
-

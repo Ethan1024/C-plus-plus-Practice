@@ -63,7 +63,28 @@ win10+vs2019
         <td>✅</td> 
         <td>成员初始化列表</td> 
         <td>✅ </td> 
+        <td>三元操作符</td> 
+        <td>✅</td> 
+    </tr>
+    <tr>
         <td></td> 
-        <td> </td> 
+        <td>✅ </td> 
+        <td></td> 
+        <td>✅</td> 
+        <td></td> 
+        <td>✅ </td> 
+        <td></td></td> 
+        <td>✅</td> 
+    </tr>
+    <tr>
+        <td></td> 
+        <td>✅ </td> 
+        <td></td> 
+        <td>✅</td> 
+        <td></td> 
+        <td>✅ </td> 
+        <td></td></td> 
+        <td>✅</td> 
     </tr>
 </table>
+

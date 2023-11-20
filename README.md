@@ -67,7 +67,7 @@ win10+vs2019
         <td>✅</td> 
     </tr>
     <tr>
-        <td></td> 
+        <td>栈、堆上创建对象</td> 
         <td>✅ </td> 
         <td></td> 
         <td>✅</td> 

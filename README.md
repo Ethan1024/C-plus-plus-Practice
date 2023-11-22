@@ -71,7 +71,7 @@ win10+vs2019
         <td>✅</td> 
         <td>new</td> 
         <td>✅</td> 
-        <td></td> 
+        <td>隐式转换与explicit</td> 
         <td>✅</td> 
         <td></td></td> 
         <td>✅</td> 
